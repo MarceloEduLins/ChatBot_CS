@@ -54,6 +54,10 @@ def info_modelo(nome):
         modelo = carregar_modelo(nome)
         info["dimensao"] = modelo.get_sentence_embedding_dimension()
         commit = getattr(modelo[0].auto_model.config, "_commit_hash", None)
+        if not commit:   # versões novas do transformers não preenchem _commit_hash
+            from huggingface_hub import constants
+            ref = Path(constants.HF_HUB_CACHE) / f"models--{nome.replace('/', '--')}" / "refs" / "main"
+            commit = ref.read_text(encoding="utf-8").strip() if ref.exists() else None
         if commit:
             info["revisao_hf"] = commit
     except Exception as erro:  # não pode derrubar a avaliação

@@ -1,6 +1,6 @@
 {
   "python": "3.12.10",
-  "plataforma": "Windows-11-10.0.26200-SP0",
+  "plataforma": "Windows-11-10.0.26300-SP0",
   "semente": 42,
   "nltk": "3.10.4",
   "sklearn": "1.9.1",
@@ -10,6 +10,7 @@
     "modelo": "sentence-transformers/paraphrase-multilingual-mpnet-base-v2",
     "sentence_transformers": "6.3.0",
     "torch": "2.15.0+cpu",
-    "dimensao": 768
+    "dimensao": 768,
+    "revisao_hf": "4328cf26390c98c5e3c738b4460a05b95f4911f5"
   }
 }
