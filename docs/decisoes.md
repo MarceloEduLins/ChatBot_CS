@@ -676,9 +676,9 @@ Hiperparâmetros (iguais para os três, semente 42): 12 épocas, lote 16, AdamW 
 <!-- AUTO:bonus -->
 | método | parâmetros treináveis | parâmetros totais | % treinável | acurácia (val+teste do escopo) | tempo de treino (s) |
 |---|---|---|---|---|---|
-| cabeça apenas | 4235 | 117657995 | 0.004 | 0.310 | 39.171 |
-| LoRA | 151691 | 117809686 | 0.129 | 0.707 | 84.745 |
-| DoRA | 160907 | 117818902 | 0.137 | 0.724 | 94.540 |
+| cabeça apenas | 4235 | 117657995 | 0.004 | 0.310 | 16.993 |
+| LoRA | 151691 | 117809686 | 0.129 | 0.707 | 35.299 |
+| DoRA | 160907 | 117818902 | 0.137 | 0.724 | 41.934 |
 
 Categoria prevista para perguntas que não estão na base:
 
@@ -689,6 +689,7 @@ Categoria prevista para perguntas que não estão na base:
 | em quanto tempo a bomba explode? | regras_rodada | regras_rodada | regras_rodada |
 | como peço reembolso de uma chave? | punicoes | trocas_reembolso | trocas_reembolso |
 | quando vai ser o próximo major? | premier | esports | esports |
+| como denuncio um hacker? | punicoes | punicoes | punicoes |
 <!-- /AUTO:bonus -->
 
 **Leitura.**
@@ -703,7 +704,7 @@ Categoria prevista para perguntas que não estão na base:
   fica bem acima do acaso (1/11 ≈ 9%) e de chutar sempre a categoria mais comum da base
   (punicoes, 21%). A diferença entre DoRA e LoRA é de uma pergunta, então não dá para dizer
   que uma é melhor que a outra aqui; a diferença para a camada final sozinha é clara.
-- **Custo.** O treino levou 85 s (LoRA) e 95 s (DoRA) em CPU, contra 39 s só da camada final.
+- **Custo.** Em CPU, cada método treina em menos de 2 minutos, e a camada final sozinha é a mais rápida. Os segundos exatos variam bastante de uma execução para outra (ver a última coluna da tabela).
 - **Perguntas novas.** A LoRA e a DoRA acertaram 4 das 5 categorias que esperávamos. O erro
   foi "quanto custa o prime?", classificada como `economia` em vez de `prime_itens`:
   provavelmente porque "quanto" aparece em quase todas as perguntas de economia da base

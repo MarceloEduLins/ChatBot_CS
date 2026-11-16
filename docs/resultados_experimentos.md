@@ -137,4 +137,4 @@ Escolhas da v2: campo **pergunta+resposta**, normalizar antes: **False**, modelo
 | Como o time CT ganha o round? | 62 | 53 | 0.325 | 53 | 0.578 | nenhum termo em comum com o texto indexado (pergunta+resposta) do id esperado (sinonímia/vocabulário); fora do vocabulário TF-IDF: round; tem sigla: ct; termos que puxaram para o id 53: ct, ganh, tim |
 | o jogo fica dando crash, oq eu faço | 87 | 81 | 0.227 | 31 | 0.511 | fora do vocabulário TF-IDF: dand; termos que puxaram para o id 81: fac |
 
-_Tempo total: 130.4 s._
+_Tempo total: 128.9 s._
