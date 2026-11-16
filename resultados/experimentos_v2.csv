@@ -1,0 +1,7 @@
+etapa,modelo,campo,normalizar_antes,expandir_abreviacoes,limiar_val,val_acuracia@1,val_mrr,teste_acuracia@1,teste_mrr
+campo,paraphrase-multilingual-MiniLM-L12-v2,pergunta,False,True,0.54,0.5,0.5999641302272881,0.6764705882352942,0.7586587160116571
+campo,paraphrase-multilingual-MiniLM-L12-v2,resposta,False,True,0.54,0.2916666666666667,0.4401015670708255,0.47058823529411764,0.5882713275446839
+campo,paraphrase-multilingual-MiniLM-L12-v2,pergunta+resposta,False,True,0.48,0.5,0.6378011474785668,0.7058823529411765,0.7768548445019033
+normalizacao,paraphrase-multilingual-MiniLM-L12-v2,pergunta+resposta,True,True,0.54,0.2916666666666667,0.4325054691508396,0.4117647058823529,0.515012228669712
+modelo,paraphrase-multilingual-mpnet-base-v2,pergunta+resposta,False,True,0.54,0.625,0.7381944444444445,0.7352941176470589,0.8199303405572755
+abreviacoes,paraphrase-multilingual-mpnet-base-v2,pergunta+resposta,False,False,0.54,0.625,0.737037037037037,0.7352941176470589,0.8270381836945304

@@ -1,0 +1,37 @@
+id_esperado,forma,pergunta,v1_sem_dic_top1,v1_sem_dic_escore,v1_sem_dic_ranking_certo,v1_sem_dic_resposta_final_certa,v1_com_dic_top1,v1_com_dic_escore,v1_com_dic_ranking_certo,v1_com_dic_resposta_final_certa,v2_sem_dic_top1,v2_sem_dic_escore,v2_sem_dic_ranking_certo,v2_sem_dic_resposta_final_certa,v2_com_dic_top1,v2_com_dic_escore,v2_com_dic_ranking_certo,v2_com_dic_resposta_final_certa,v1_termos_sem_dic,v1_termos_com_dic
+41,formal,Quanto é que custa o Prime?,41,0.495,True,True,41,0.495,True,True,41,0.751,True,True,41,0.751,True,True,quant · cust · prim,quant · cust · prim
+41,sem_acento,Quanto e que custa o Prime?,41,0.495,True,True,41,0.495,True,True,41,0.754,True,True,41,0.754,True,True,quant · cust · prim,quant · cust · prim
+41,abreviada,qnto eh q custa o prime?,41,0.482,True,True,41,0.495,True,True,41,0.612,True,True,41,0.664,True,True,qnt · eh · q · cust · prim,quant · cust · prim
+40,formal,Como você compra o Prime?,40,0.586,True,True,40,0.586,True,True,41,0.7,False,False,41,0.7,False,False,compr · prim,compr · prim
+40,sem_acento,Como voce compra o Prime?,40,0.586,True,True,40,0.586,True,True,41,0.697,False,False,41,0.697,False,False,compr · prim,compr · prim
+40,abreviada,como vc compra o prime?,40,0.586,True,True,40,0.586,True,True,41,0.624,False,False,41,0.608,False,False,vc · compr · prim,compr · prim
+34,formal,Por que minha patente não aparece mais?,34,0.438,True,True,34,0.438,True,True,34,0.818,True,True,34,0.818,True,True,patent · nao · aparec,patent · nao · aparec
+34,sem_acento,Por que minha patente nao aparece mais?,34,0.438,True,True,34,0.438,True,True,34,0.815,True,True,34,0.815,True,True,patent · nao · aparec,patent · nao · aparec
+34,abreviada,pq minha patente n aparece mais?,34,0.474,True,True,34,0.438,True,True,34,0.803,True,True,34,0.82,True,True,pq · patent · n · aparec,patent · nao · aparec
+81,formal,Você consegue ver o seu Trust Factor?,81,0.728,True,True,81,0.728,True,True,81,0.681,True,True,81,0.681,True,True,conseg · ver · trust · fac,conseg · ver · trust · fac
+81,sem_acento,Voce consegue ver o seu Trust Factor?,81,0.728,True,True,81,0.728,True,True,81,0.665,True,True,81,0.665,True,True,conseg · ver · trust · fac,conseg · ver · trust · fac
+81,abreviada,vc consegue ver seu trust factor?,81,0.728,True,True,81,0.728,True,True,80,0.662,False,False,81,0.657,True,True,vc · conseg · ver · trust · fac,conseg · ver · trust · fac
+50,formal,Qual é o máximo de dinheiro que dá para juntar?,50,0.419,True,True,50,0.419,True,True,50,0.542,True,True,50,0.542,True,True,max · dinh · da · junt,max · dinh · da · junt
+50,sem_acento,Qual e o maximo de dinheiro que da para juntar?,50,0.489,True,True,50,0.489,True,True,50,0.539,True,False,50,0.539,True,False,max · dinh · junt,max · dinh · junt
+50,abreviada,ql eh o maximo de dinheiro q da pra juntar?,50,0.489,True,True,50,0.489,True,True,50,0.506,True,False,50,0.56,True,True,ql · eh · max · dinh · q · pra · junt,max · dinh · junt
+56,formal,Quantos segundos até a bomba explodir?,56,0.662,True,True,56,0.662,True,True,56,0.777,True,True,56,0.777,True,True,quant · segund · bomb · explod,quant · segund · bomb · explod
+56,sem_acento,Quantos segundos ate a bomba explodir?,56,0.662,True,True,56,0.662,True,True,56,0.752,True,True,56,0.752,True,True,quant · segund · bomb · explod,quant · segund · bomb · explod
+56,abreviada,qntos seg ate a bomba explodir?,56,0.478,True,True,56,0.506,True,True,56,0.544,True,True,56,0.623,True,True,qnt · seg · bomb · explod,quant · seg · bomb · explod
+14,formal,Quantas vitórias são necessárias para ter o CS Rating?,14,0.541,True,True,14,0.541,True,True,14,0.864,True,True,14,0.864,True,True,quant · vitor · necessar · ter · cs · rating,quant · vitor · necessar · ter · cs · rating
+14,sem_acento,Quantas vitorias sao necessarias para ter o CS Rating?,14,0.447,True,True,14,0.447,True,True,14,0.856,True,True,14,0.856,True,True,quant · vitor · necess · ter · cs · rating,quant · vitor · necess · ter · cs · rating
+14,abreviada,qntas vitorias sao necessarias pra ter o cs rating?,14,0.409,True,True,14,0.447,True,True,14,0.775,True,True,14,0.858,True,True,qnt · vitor · necess · pra · ter · cs · rating,quant · vitor · necess · ter · cs · rating
+85,formal,O CS2 também funciona no Mac?,85,0.61,True,True,85,0.61,True,True,85,0.783,True,True,85,0.783,True,True,cs2 · func · mac,cs2 · func · mac
+85,sem_acento,O CS2 tambem funciona no Mac?,85,0.61,True,True,85,0.61,True,True,85,0.78,True,True,85,0.78,True,True,cs2 · func · mac,cs2 · func · mac
+85,abreviada,o cs2 tb funciona no mac?,85,0.61,True,True,85,0.61,True,True,85,0.709,True,True,85,0.771,True,True,cs2 · tb · func · mac,cs2 · func · mac
+90,formal,É possível pedir reembolso de uma caixa?,91,0.425,False,False,91,0.425,False,False,90,0.618,True,True,90,0.618,True,True,possivel · ped · reembols · caix,possivel · ped · reembols · caix
+90,sem_acento,E possivel pedir reembolso de uma caixa?,91,0.493,False,False,91,0.493,False,False,91,0.615,False,False,91,0.615,False,False,possi · ped · reembols · caix,possi · ped · reembols · caix
+90,abreviada,eh possivel pedir reembolso d uma caixa?,91,0.493,False,False,91,0.493,False,False,91,0.599,False,False,91,0.619,False,False,eh · possi · ped · reembols · d · caix,possi · ped · reembols · caix
+72,formal,Dá para recorrer de um banimento do VAC?,72,0.492,True,True,72,0.492,True,True,72,0.744,True,True,72,0.744,True,True,da · recorr · ban · vac,da · recorr · ban · vac
+72,sem_acento,Da para recorrer de um banimento do VAC?,72,0.591,True,True,72,0.591,True,True,72,0.71,True,True,72,0.71,True,True,recorr · ban · vac,recorr · ban · vac
+72,abreviada,da pra recorrer de um ban do vac?,72,0.591,True,True,72,0.591,True,True,62,0.316,False,False,62,0.32,False,False,pra · recorr · ban · vac,recorr · ban · vac
+28,formal,Uma partida competitiva tem quantas rodadas no máximo?,28,0.487,True,True,28,0.487,True,True,28,0.719,True,True,28,0.719,True,True,part · competi · quant · rod · max,part · competi · quant · rod · max
+28,sem_acento,Uma partida competitiva tem quantas rodadas no maximo?,28,0.487,True,True,28,0.487,True,True,28,0.707,True,True,28,0.707,True,True,part · competi · quant · rod · max,part · competi · quant · rod · max
+28,abreviada,uma partida competitiva tem qntas rodadas no max?,50,0.479,False,False,28,0.487,True,True,29,0.677,False,False,28,0.709,True,True,part · competi · qnt · rod · max,part · competi · quant · rod · max
+87,formal,Como faço a verificação dos arquivos do jogo?,87,0.584,True,True,87,0.584,True,True,87,0.693,True,True,87,0.693,True,True,fac · verific · arqu · jog,fac · verific · arqu · jog
+87,sem_acento,Como faco a verificacao dos arquivos do jogo?,87,0.493,True,True,87,0.493,True,True,87,0.677,True,True,87,0.677,True,True,fac · verificaca · arqu · jog,fac · verificaca · arqu · jog
+87,abreviada,como faco a verificacao dos arqvs do jogo?,81,0.405,False,False,81,0.405,False,False,55,0.55,False,False,55,0.55,False,False,fac · verificaca · arqv · jog,fac · verificaca · arqv · jog

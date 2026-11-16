@@ -1,0 +1,8 @@
+origem,antes (texto original),só tokenização,"pipeline ingênuo (stopwords NLTK puras, sem siglas, sem abreviações)",pipeline adotado
+id 73,"Fui banido pelo VAC sem usar trapaça, o que faço?","Fui · banido · pelo · VAC · sem · usar · trapaça · , · o · que · faço · ?",ban · vac · us · trap · fac,ban · vac · sem · us · trap · fac
+id 100,O que é o VRS (Valve Regional Standings)?,O · que · é · o · VRS · ( · Valve · Regional · Standings · ) · ?,vrs · valv · region · standing,vrs · valv · region · standing
+id 16,Vitórias no modo Competitivo aumentam meu CS Rating?,Vitórias · no · modo · Competitivo · aumentam · meu · CS · Rating · ?,vitor · mod · competi · aument · cs · rating,vitor · mod · competi · aument · cs · rating
+id 43,"Eu tinha Prime grátis do CS:GO e ele sumiu, o que aconteceu?","Eu · tinha · Prime · grátis · do · CS · : · GO · e · ele · sumiu · , · o · que · aconteceu · ?",prim · gratil · cs · go · sum · acontec,prim · gratil · cs · go · sum · acontec
+id 85,O CS2 roda no Mac?,O · CS2 · roda · no · Mac · ?,cs2 · rod · mac,cs2 · rod · mac
+extra (fora da base),"não consigo entrar no premier, o botão tá cinza","não · consigo · entrar · no · premier · , · o · botão · tá · cinza",consig · entr · premi · bot · ta · cinz,nao · consig · entr · premi · bot · cinz
+extra (fora da base),qnto custa o prime? pq n consigo comprar,qnto · custa · o · prime · ? · pq · n · consigo · comprar,qnt · cust · prim · pq · n · consig · compr,quant · cust · prim · nao · consig · compr

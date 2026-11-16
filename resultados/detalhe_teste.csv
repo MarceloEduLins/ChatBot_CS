@@ -1,0 +1,43 @@
+pergunta,esperado,v1_top1,v1_escore,v1_posicao,v1_final,v2_top1,v2_escore,v2_posicao,v2_final,dicas_hipotese
+"Que jogo é o Counter Strike 2, quem fez e quando saiu?",1,26,0.2878747130143552,2.0,-1,1,0.7787118159268109,1.0,1,"fora do vocabulário TF-IDF: count, strik, fez; termos que puxaram para o id 26: saiu"
+meus bans antigos do csgo passaram pro cs2 tambem?,5,48,0.3410976886082202,20.0,48,5,0.6962643739479621,1.0,5,"fora do vocabulário TF-IDF: bam, antig, csg; tem sigla: cs2; termos que puxaram para o id 48: pass"
+tick rate ainda importa no cs2?,8,8,0.44646649032242613,1.0,8,8,0.6393891300562787,1.0,8,tem sigla: cs2
+a smoke agora abre quando atiram nela?,9,91,0.1331556090463985,2.0,-1,9,0.6336568894039915,1.0,9,fora do vocabulário TF-IDF: agor; termos que puxaram para o id 91: nel
+"não consigo entrar no premier, o botão tá cinza",11,25,0.1302428440559482,8.0,-1,11,0.46985785931770485,1.0,-1,tem negação; termos que puxaram para o id 25: entr
+Ganhar no competitivo sobe meu rating do premier?,16,15,0.3316505974164424,2.0,15,14,0.5629259059319407,2.0,14,termos que puxaram para o id 15: sob
+quando acaba a season o meu rating zera?,18,14,0.183371647637954,12.0,-1,18,0.5302387864670189,1.0,-1,fora do vocabulário TF-IDF: season
+Preciso de quantas vitórias pra pegar a medalha da season?,19,14,0.4197244077940976,2.0,14,19,0.6673520675759026,1.0,19,"fora do vocabulário TF-IDF: peg, season; termos que puxaram para o id 14: precis, quant"
+"Sou do Brasil, por que apareço no ranking de outra região?",22,22,0.37361793850571073,1.0,22,22,0.435081880823749,1.0,-1,fora do vocabulário TF-IDF: brasil
+como é feito o veto de mapas nas partidas ranqueadas?,24,24,0.32042481361449815,1.0,-1,24,0.5882035510721931,1.0,24,fora do vocabulário TF-IDF: vet
+ainda da pra jogar overpass?,26,26,0.5865301018699247,1.0,26,26,0.5911982255353309,1.0,26,-
+Se a partida fica 12x12 tem prorrogação?,29,29,0.2464539440732968,1.0,-1,29,0.6992950717661989,1.0,29,fora do vocabulário TF-IDF: 12x12
+como eu faço pra desistir da partida quando um amigo quita,31,81,0.24613713774195245,4.0,-1,31,0.5178463691537004,1.0,-1,"fora do vocabulário TF-IDF: desist, quit"
+Minha patente da mirage desapareceu do nada,34,35,0.2348009735951196,2.0,-1,34,0.6591283806723622,1.0,34,"fora do vocabulário TF-IDF: desaparec, nad"
+qual o nivel maximo de perfil no cs2,36,36,0.6376038282513875,1.0,36,36,0.7768349311848922,1.0,36,tem sigla: cs2
+jogador free consegue ter rank?,38,11,0.33819925082385743,3.0,11,20,0.5486368445204356,19.0,20,"fora do vocabulário TF-IDF: fre, conseg, rank; termos que puxaram para o id 11: jog"
+Onde eu compro o prime?,40,40,0.38102517714761347,1.0,40,41,0.5607564307194535,2.0,41,-
+qnto custa o prime em dolar,41,41,0.49452086925430605,1.0,41,41,0.6236147013817077,1.0,41,fora do vocabulário TF-IDF: dol
+Como ganho caixa de graça toda semana?,44,44,0.3342035402650076,1.0,44,44,0.6387647408712436,1.0,44,fora do vocabulário TF-IDF: grac
+Qual a grana maxima que da pra juntar?,50,50,0.31394996603334396,1.0,-1,56,0.49647563918359605,8.0,-1,-
+Quanto se recebe por um kill de AWP e por um de faca?,54,54,0.2522181836270011,1.0,-1,54,0.6404349751740999,1.0,54,fora do vocabulário TF-IDF: kill; tem sigla: awp
+o kit de defuse custa quanto?,58,58,0.6169244279384296,1.0,58,58,0.670143227517092,1.0,58,fora do vocabulário TF-IDF: defus
+Qual o tempo de round no competitivo?,59,28,0.2785682369296561,4.0,-1,28,0.6182334589197346,3.0,28,fora do vocabulário TF-IDF: round
+Como o time CT ganha o round?,62,53,0.3253122516347377,64.0,-1,53,0.5780057243723552,5.0,53,"nenhum termo em comum com o texto indexado (pergunta+resposta) do id esperado (sinonímia/vocabulário); fora do vocabulário TF-IDF: round; tem sigla: ct; termos que puxaram para o id 53: ct, ganh, tim"
+"tomei um cooldown de 24 horas, em que nivel eu estou?",68,68,0.5571277661410949,1.0,68,68,0.7560030989223376,1.0,68,-
+Tem como apelar de ban VAC?,72,72,0.5894000143959156,1.0,72,72,0.7343517431626494,1.0,72,fora do vocabulário TF-IDF: apel; tem sigla: vac
+Posso jogar em LAN e offline mesmo banido pelo VAC?,75,75,0.6438634853661159,1.0,75,75,0.7501773799563027,1.0,75,"fora do vocabulário TF-IDF: offlin; tem sigla: lan, vac"
+como checar meu trust factor,81,81,0.694531188899067,1.0,81,81,0.7502734476912793,1.0,81,fora do vocabulário TF-IDF: chec
+"o jogo fica dando crash, oq eu faço",87,81,0.22684855459565237,4.0,-1,31,0.5107056948890251,3.0,-1,fora do vocabulário TF-IDF: dand; termos que puxaram para o id 81: fac
+"Comprei uma chave de caixa por engano, consigo estorno?",90,90,0.3036844251910123,1.0,-1,97,0.4560717190288691,3.0,-1,fora do vocabulário TF-IDF: estorn
+minha troca ficou em espera de 15 dias por quê,92,95,0.45023106791149076,2.0,95,92,0.4731281723198396,1.0,-1,"fora do vocabulário TF-IDF: esper, que"
+"Cai num golpe e levaram minhas skins, tem como desfazer a troca?",97,97,0.3823390152224527,1.0,97,97,0.4451947297621402,1.0,-1,-
+Quando é o Major de Singapura?,98,98,0.4508323213593534,1.0,98,98,0.5143402646969685,1.0,-1,pergunta curta (2 termos após v0)
+Como funcionam os convites da Valve pros times irem ao Major?,100,100,0.36369177813862,1.0,100,99,0.5386685535539526,2.0,-1,fora do vocabulário TF-IDF: ir
+Quem ganhou a Copa do Mundo de 2002?,-1,43,0.18920039720598417,,-1,99,0.3827440915447527,,-1,"fora do vocabulário TF-IDF: 2002; termos que puxaram para o id 43: cop, ganh"
+qual a senha do wifi?,-1,1,0.0,,-1,77,0.3043956005334862,,-1,"fora do vocabulário TF-IDF: senh, wif; pergunta curta (2 termos após v0)"
+Como instalo mods no Minecraft?,-1,7,0.25347851324891196,,-1,40,0.4285732065638444,,-1,fora do vocabulário TF-IDF: minecraft; termos que puxaram para o id 7: mod
+Qual a previsão do tempo para amanhã em Curitiba?,-1,56,0.20905410645241357,,-1,64,0.36622819830142594,,-1,"fora do vocabulário TF-IDF: previs, amanha, curitib; termos que puxaram para o id 56: temp"
+Quando começa a nova temporada do Fortnite?,-1,18,0.6205572584270226,,18,18,0.3257109744792895,,-1,"fora do vocabulário TF-IDF: fortnit; termos que puxaram para o id 18: comec, nov, tempor"
+What is the best pizza place in New York?,-1,86,0.18664659694083194,,-1,22,0.2469739840773411,,-1,"fora do vocabulário TF-IDF: what, is, the, best; termos que puxaram para o id 86: plac"
+Como calcular o determinante de uma matriz 3x3?,-1,35,0.34399664145483116,,35,17,0.30427787190229144,,-1,"fora do vocabulário TF-IDF: determin, matriz, 3x3; termos que puxaram para o id 35: calcul"
+Qual o preço do dólar hoje?,-1,41,0.25867014666484683,,-1,41,0.4426552744502429,,-1,"fora do vocabulário TF-IDF: dol, hoj; termos que puxaram para o id 41: prec"

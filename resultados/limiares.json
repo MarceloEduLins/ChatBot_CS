@@ -1,0 +1,14 @@
+{
+  "v1": {
+    "limiar": 0.33,
+    "campo": "pergunta+resposta",
+    "expandir_abreviacoes": true
+  },
+  "v2": {
+    "limiar": 0.54,
+    "modelo": "sentence-transformers/paraphrase-multilingual-mpnet-base-v2",
+    "campo": "pergunta+resposta",
+    "normalizar": false,
+    "expandir_abreviacoes": true
+  }
+}

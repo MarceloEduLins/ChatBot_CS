@@ -1,0 +1,3 @@
+versao,representacao,campo,limiar,acuracia@1,mrr,rejeicao_correta,falsa_rejeicao,acerto_final
+v1,TF-IDF,pergunta+resposta,0.33,0.5882352941176471,0.7163909313725491,0.75,0.4117647058823529,0.5
+v2,embeddings (paraphrase-multilingual-mpnet-base-v2),pergunta+resposta,0.54,0.7352941176470589,0.8199303405572755,1.0,0.3235294117647059,0.6190476190476191
